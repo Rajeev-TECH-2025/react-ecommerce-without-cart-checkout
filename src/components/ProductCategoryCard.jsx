@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import Products from "../data/productCategory.json";
 
 
 export default function ProductCategoryCard({ product }) {

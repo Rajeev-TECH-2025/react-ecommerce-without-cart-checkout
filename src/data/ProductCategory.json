@@ -1,30 +1,30 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "name": "Mangalsutra Set",
     "slug": "mangalsutra-set",
     "image": "https://m.media-amazon.com/images/I/61xBqgH9IiL._SY575_.jpg"
   },
   {
-    "id": 2,
+    "id": 1,
     "name": "Necklace Set",
     "slug": "necklace-set",
     "image": "https://m.media-amazon.com/images/I/71xQLscp1rL._SY575_.jpg"
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "Bridal Jewellery Sets",
     "slug": "bridal-jewellery-sets",
     "image": "/images/bridal-set.png"
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "All Type Earrings",
     "slug": "all-type-earrings",
     "image": "https://m.media-amazon.com/images/I/71lbgfwTBaL._SY575_.jpg"
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Jhumkas",
     "slug": "jhumkas",
     "image": "https://m.media-amazon.com/images/I/71D+r8O1mHL._SY575_.jpg"
