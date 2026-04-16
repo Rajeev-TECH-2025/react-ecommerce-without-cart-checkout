@@ -1,5 +1,6 @@
 import { useParams } from "react-router-dom";
 import products from "../data/productCategory.json";
+import data from "../data/productCategory.json?url";
 import ProductCategoryCard from "../components/ProductCategoryCard";
 
 export default function productCategory() {
