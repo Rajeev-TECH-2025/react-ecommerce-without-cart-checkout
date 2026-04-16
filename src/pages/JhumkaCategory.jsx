@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import products from "../data/jhumka.json";
+import products from "../data/JhumkaCategory.json";
 import ProductCategoryCard from "../components/ProductCard";
 
 export default function JhumkaCategory() {
