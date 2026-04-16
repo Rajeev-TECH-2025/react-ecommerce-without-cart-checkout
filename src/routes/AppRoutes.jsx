@@ -1,6 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "../pages/Home";
-import Category from "../pages/productCategory";
 import About from "../pages/About";
 import Contact from "../pages/Contact";
 import MainLayout from "../layouts/MainLayout";
@@ -16,7 +15,7 @@ export default function AppRoutes() {
       <Routes>
         <Route element={<MainLayout />}>
           <Route path="/" element={<Home />} />
-          <Route path="/category/:name" element={<Category />} />
+          {/* <Route path="/category/:name" element={<productCategory />} /> */}
           <Route path="/category/mangalsutra-set" element={<MangalsutraSet />} />
           <Route path="/category/necklace-set" element={<NecklaceSet />} />
           <Route path="/category/all-type-earrings" element={<AllTypeEarrings />} />
