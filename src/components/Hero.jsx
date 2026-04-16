@@ -5,17 +5,17 @@ import { motion } from "framer-motion";
 const Hero = () => {
   const slides = [
     {
-      image: "../images/slides/slide01.jpg",
+      image: "assets/images/slides/slide01.jpg",
       title: "Elegant Necklace Collection",
       subtitle: "Discover premium designs"
     },
     {
-      image: "../images/slides/slide02.jpg",
+      image: "assets/images/slides/slide02.jpg",
       title: "All Seasons Earrings",
       subtitle: "Perfect for your big day"
     },
     {
-      image: "../images/slides/slide03.jpg",
+      image: "assets/images/slides/slide03.jpg",
       title: "Fashionable Mangalsutra",
       subtitle: "Traditional meets modern style"
     }
