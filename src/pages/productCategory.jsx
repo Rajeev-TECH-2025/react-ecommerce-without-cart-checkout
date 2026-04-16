@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom";
 import products from "../data/productCategory.json";
 import ProductCategoryCard from "../components/ProductCategoryCard";
 
-export default function Category() {
+export default function productCategory() {
   const { name } = useParams();
 
   // If category name exists → filter, else show all
