@@ -9,7 +9,7 @@ export default function Category() {
   const filtered = name
     ? products.filter(
         (p) =>
-          p.ProductCategory?.toLowerCase() === name.toLowerCase()
+          p.productCategory?.toLowerCase() === name.toLowerCase()
       )
     : products;
 
