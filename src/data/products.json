@@ -17,14 +17,14 @@
     "id": 3,
     "name": "Gold Plated Kundan Jewellery Set for Women",
     "category": "Necklace-set",
-    "image": "/images/data/1.png",
+    "image": "https://portfoliosinharaj2005.netlify.app/assets/images/data/1.png",
     "url": "https://www.amazon.in/dp/B0GWVNB3Q1"
   },
   {
     "id": 4,
     "name": "Maroon Beaded Gold Plated Statement Necklace Set for Women",
     "category": "Necklace-set",
-    "image": "/images/data/2.png",
+    "image": "https://portfoliosinharaj2005.netlify.app/assets/images/data/2.png",
     "url": "https://www.amazon.in/dp/B0GW93C8SJ"
   },
   {
