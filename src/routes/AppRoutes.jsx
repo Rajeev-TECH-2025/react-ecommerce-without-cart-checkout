@@ -9,7 +9,7 @@ import MangalsutraSet from "../pages/MangalsutraSet";
 import NecklaceSet from "../pages/NecklaceSet";
 import AllTypeEarrings from "../pages/AllTypeEarrings";
 import BanglesDesignerKada from "../pages/bangles-designer-kada";
-
+import JhumkaCategory from "../pages/JhumkaCategory";
 export default function AppRoutes() {
   return (
     <BrowserRouter>
@@ -21,6 +21,7 @@ export default function AppRoutes() {
           <Route path="/category/necklace-set" element={<NecklaceSet />} />
           <Route path="/category/all-type-earrings" element={<AllTypeEarrings />} />
           <Route path="/category/bangles-designer-kada" element={<BanglesDesignerKada />} />
+          <Route path="/category/jhumkas" element={<JhumkaCategory />} />
           <Route path="/category/all" element={<AllCategory />} />
           <Route path="/about" element={<About />} />
           <Route path="/contact" element={<Contact />} />
