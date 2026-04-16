@@ -2,7 +2,7 @@
     "id": 1,
     "name": "Pink Stone Choker Jewellery Set for Women",
     "category": "Necklace-set",
-    "image": "/images/data/first.png",
+    "image": "../src/assets/images/data/first.png",
     "url": "https://amzn.in/d/05pQaVVT"
   },
   {
@@ -16,14 +16,14 @@
     "id": 3,
     "name": "Gold Plated Kundan Jewellery Set for Women",
     "category": "Necklace-set",
-    "image": "/images/data/1.png",
+    "image": "../src/assets/images/data/1.png",
     "url": "https://www.amazon.in/dp/B0GWVNB3Q1"
   },
   {
     "id": 4,
     "name": "Maroon Beaded Gold Plated Statement Necklace Set for Women",
     "category": "Necklace-set",
-    "image": "/images/data/2.png",
+    "image": "../src/assets/images/data/2.png",
     "url": "https://www.amazon.in/dp/B0GW93C8SJ"
   },
   {
@@ -72,7 +72,7 @@
     "id": 12,
     "name": "Oxidised Silver Bridal Choker Necklace Set for Women",
     "category": "Necklace-set",
-    "image": "/images/data/3.png",
+    "image": "../src/assets/images/data/3.png",
     "url": "https://www.amazon.in/dp/B0GW6ZFVK9"
   },{
     "id": 13,

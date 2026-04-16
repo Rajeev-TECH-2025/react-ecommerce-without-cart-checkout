@@ -20,13 +20,13 @@
     "id": 4,
     "name": "Samriddhi Jewellery Combo Earrings Set for Women – Boho Tassel Statement Earrings",
     "category": "Mangalsutra Set",
-    "image": "/images/data/8.png",
+    "image": "../src/assets/images/data/8.png",
     "url": "https://www.amazon.in/dp/B0GT6FS6CM"
   },{
     "id": 5,
     "name": "Samriddhi Jewellery Gold Plated Traditional Earrings Combo for Women",
     "category": "Mangalsutra Set",
-    "image": "/images/data/10.png",
+    "image": "../src/assets/images/data/10.png",
     "url": "https://www.amazon.in/dp/B0GT67ZG45"
   },{
     "id": 6,
