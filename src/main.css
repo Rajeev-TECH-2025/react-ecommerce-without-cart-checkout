@@ -2666,7 +2666,7 @@ color: #fff;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(../images/slide-01.jpg)
+  background-image: url(https://portfoliosinharaj2005.netlify.app/assets/images/slide-01.jpg)
 }
 
 
@@ -3388,3 +3388,6 @@ color: #fff;
     z-index: 9;
    }
 }
+/* .react-slideshow-container{
+  margin-top: 47px;
+} */

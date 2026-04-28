@@ -9,7 +9,7 @@ export default function NecklaceSet() {
   const filtered = name
     ? products.filter(
       (p) =>
-        p.mangalsutraCategory?.toLowerCase() === name.toLowerCase()
+        p.necklaceCategory?.toLowerCase() === name.toLowerCase()
     )
     : products;
 

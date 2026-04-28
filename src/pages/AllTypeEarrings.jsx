@@ -9,7 +9,7 @@ export default function AllTypeEarrings() {
   const filtered = name
     ? products.filter(
       (p) =>
-        p.mangalsutraCategory?.toLowerCase() === name.toLowerCase()
+        p.AllTypeEarrings?.toLowerCase() === name.toLowerCase()
     )
     : products;
 

@@ -3,28 +3,28 @@
     "id": 1,
     "name": "Pink Stone Choker Jewellery Set for Women",
     "category": "Necklace-set",
-    "image": "/images/data/first.png",
+    "image": "https://i.postimg.cc/SxpPYzND/first.png",
     "url": "https://amzn.in/d/05pQaVVT"
   },
   {
     "id": 2,
     "name": "Gold Plated Pink Stone Jewellery Set for Women",
     "category": "Necklace-set",
-    "image": "/images/data/second.png",
+    "image": "https://i.postimg.cc/fb8qP2jL/second.png",
     "url": "https://www.amazon.in/dp/B0GWVWKHDQ"
   },
   {
     "id": 3,
     "name": "Gold Plated Kundan Jewellery Set for Women",
     "category": "Necklace-set",
-    "image": "/images/data/1.png",
+    "image": "https://portfoliosinharaj2005.netlify.app/assets/images/data/1.png",
     "url": "https://www.amazon.in/dp/B0GWVNB3Q1"
   },
   {
     "id": 4,
     "name": "Maroon Beaded Gold Plated Statement Necklace Set for Women",
     "category": "Necklace-set",
-    "image": "/images/data/2.png",
+    "image": "https://portfoliosinharaj2005.netlify.app/assets/images/data/2.png",
     "url": "https://www.amazon.in/dp/B0GW93C8SJ"
   },
   {
@@ -73,7 +73,7 @@
     "id": 12,
     "name": "Oxidised Silver Bridal Choker Necklace Set for Women",
     "category": "Necklace-set",
-    "image": "/images/data/3.png",
+    "image": "https://portfoliosinharaj2005.netlify.app/assets/images/data/3.png",
     "url": "https://www.amazon.in/dp/B0GW6ZFVK9"
   },{
     "id": 13,
@@ -157,43 +157,43 @@
     "id": 27,
     "name": "Samriddhi Jewellery Gold Plated Mangalsutra Combo for Women (Set of 2)",
     "category": "Mangalsutra Set",
-    "image": "/images/data/4.png",
+    "image": "https://portfoliosinharaj2005.netlify.app/assets/images/data/4.png",
     "url": "https://www.amazon.in/dp/B0GT8Y6RNB"
   },{
     "id": 28,
     "name": "Samriddhi Jewellery Gold Plated Mangalsutra Combo for Women (Set of 2)",
     "category": "Mangalsutra Set",
-    "image": "/images/data/5.png",
+    "image": "https://portfoliosinharaj2005.netlify.app/assets/images/data/5.png",
     "url": "https://www.amazon.in/dp/B0GT94NKYH"
   },{
     "id": 29,
     "name": "Samriddhi Jewellery Gold Plated Mangalsutra Combo for Women (Set of 2)",
     "category": "Mangalsutra Set",
-    "image": "/images/data/6.png",
+    "image": "https://portfoliosinharaj2005.netlify.app/assets/images/data/6.png",
     "url": "https://www.amazon.in/dp/B0GT95JW2N"
   },{
     "id": 30,
     "name": "Samriddhi Jewellery Gold Plated Mangalsutra Combo for Women (Set of 2)",
     "category": "Mangalsutra Set",
-    "image": "/images/data/7.png",
+    "image": "https://portfoliosinharaj2005.netlify.app/assets/images/data/7.png",
     "url": "https://www.amazon.in/dp/B0GT8YS941"
   },{
     "id": 31,
     "name": "Samriddhi Jewellery Combo Earrings Set for Women – Boho Tassel Statement Earrings",
     "category": "Mangalsutra Set",
-    "image": "/images/data/8.png",
+    "image": "https://portfoliosinharaj2005.netlify.app/assets/images/data/8.png",
     "url": "https://www.amazon.in/dp/B0GT6FS6CM"
   },{
     "id": 32,
     "name": "Samriddhi Jewellery Gold Plated Traditional Earrings Combo for Women",
     "category": "Mangalsutra Set",
-    "image": "/images/data/10.png",
+    "image": "https://portfoliosinharaj2005.netlify.app/assets/images/data/10.png",
     "url": "https://www.amazon.in/dp/B0GT67ZG45"
   },{
     "id": 33,
     "name": "Gold Plated Mangalsutra for Women with Black Beads",
     "category": "Mangalsutra Set",
-    "image": "/images/data/9.png",
+    "image": "https://portfoliosinharaj2005.netlify.app/assets/images/data/9.png",
     "url": "https://www.amazon.in/dp/B0GR8W7N7G"
   },{
     "id": 34,

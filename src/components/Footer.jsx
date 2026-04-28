@@ -76,7 +76,7 @@ function Footer() {
 							</p>
 						</div>
 						<div className="col-sm-6 col-lg-3 p-b-20">
-							<img src="/images/icons/logo-01.png" style={{ width: '200px' }} alt="Navroop Lifestyle" />
+							<img src="https://portfoliosinharaj2005.netlify.app/assets/images/icons/logo-01.png" style={{ width: '200px' }} alt="Navroop Lifestyle" />
 						</div>
 					</div>
 					<div>						 

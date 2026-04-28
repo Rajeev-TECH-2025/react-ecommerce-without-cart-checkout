@@ -41,7 +41,7 @@ function About() {
             <div className="col-11 col-md-5 col-lg-4 m-lr-auto">
               <div className="how-bor1 ">
                 <div className="hov-img0">
-                  <img src="/images/icons/logo-01.png" alt="IMG" />
+                  <img src="https://portfoliosinharaj2005.netlify.app/assets/images/icons/logo-01.png" alt="IMG" />
                 </div>
               </div>
             </div>
@@ -67,7 +67,7 @@ function About() {
             <div className="order-md-1 col-11 col-md-5 col-lg-4 m-lr-auto p-b-30">
               <div className="how-bor2">
                 <div className="hov-img0">
-                  <img src="/images/second.jpg" alt="IMG" />
+                  <img src="https://portfoliosinharaj2005.netlify.app/assets/images/second.jpg" alt="IMG" />
                 </div>
               </div>
             </div>

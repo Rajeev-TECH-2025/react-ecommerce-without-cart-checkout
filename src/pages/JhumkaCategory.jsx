@@ -1,16 +1,16 @@
-import { useParams } from "react-router-dom";
-import products from "../data/productCategory.json";
-import ProductCategoryCard from "../components/ProductCategoryCard";
+import { Link, useParams } from "react-router-dom";
+import products from "../data/JhumkaCategory.json";
+import ProductCategoryCard from "../components/ProductCard";
 
-export default function Category() {
+export default function JhumkaCategory() {
   const { name } = useParams();
 
   // If category name exists → filter, else show all
   const filtered = name
     ? products.filter(
-        (p) =>
-          p.ProductCategory?.toLowerCase() === name.toLowerCase()
-      )
+      (p) =>
+        p.jhumkaCategory?.toLowerCase() === name.toLowerCase()
+    )
     : products;
 
   return (
@@ -18,7 +18,7 @@ export default function Category() {
       {/* Banner */}
       <section className="bg-img1 txt-center p-lr-15 p-tb-92">
         <h2 className="ltext-105 cl0 txt-center">
-          {name ? name : "All Categories"}
+          {name ? name : "All Type Earrings"}
         </h2>
       </section>
 
@@ -27,7 +27,10 @@ export default function Category() {
         <div className="container">
           <div className="p-b-10">
             <h3 className="ltext-103 cl5">
-              {name ? `Category: ${name}` : "All Category"}
+              <Link to="/category/all" className="cl5" onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}>
+                ⇠ Back to Category
+              </Link>
+
             </h3>
           </div>
 

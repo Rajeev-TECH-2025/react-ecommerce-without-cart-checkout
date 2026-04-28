@@ -17,7 +17,7 @@ export default function Navbar() {
         <div className="wrap-menu-desktop">
           <nav className="limiter-menu-desktop container">
             <Link to="/" className="logo">
-              <img src="/images/icons/logo-01.png" alt="logo" />
+              <img src="https://portfoliosinharaj2005.netlify.app/assets/images/icons/logo-01.png" alt="logo" />
               Navroop Lifestyle
             </Link>
 
@@ -45,7 +45,7 @@ export default function Navbar() {
       <div className="wrap-header-mobile">
         <div className="logo-mobile">
           <Link to="/">
-            <img src="/images/icons/logo-01.png" alt="logo" />
+            <img src="https://portfoliosinharaj2005.netlify.app/assets/images/icons/logo-01.png" alt="logo" />
             Navroop Lifestyle
           </Link>
         </div>
